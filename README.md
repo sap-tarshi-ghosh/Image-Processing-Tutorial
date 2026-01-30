@@ -1,4 +1,5 @@
 # Image-Processing-Tutorial
-A documentation of my image processing journey.
+This repository documents my day-by-day implementation of core image
+processing algorithms without using built-in image processing functions
 ---
-[Image histogram and Histogram equalization](https://github.com/sap-tarshi-ghosh/Image-Processing-Tutorial/blob/main/code/Histogram_and_Histogram_Equilization.ipynb)
+1. [Image histogram and Histogram equalization](https://github.com/sap-tarshi-ghosh/Image-Processing-Tutorial/blob/main/code/Histogram_and_Histogram_Equilization.ipynb)
