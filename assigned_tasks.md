@@ -48,7 +48,6 @@ The following topics have been assigned by sir for the next stage of learning an
 - RGB color model
 - HSI / HSV color models
 - CIELab color space
-- YCbCr color spece
 
 ---
 
