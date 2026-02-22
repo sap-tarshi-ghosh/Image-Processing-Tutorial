@@ -12,7 +12,7 @@ Tasks are implemented day by day in separate code files.
 - Compute image histogram manually
 - Compute cumulative distribution function (CDF)
 - Perform histogram equalization
-- Visualize image, histogram, CDF, and results
+- Visualize image, histogram, CDF and results
 
 ---
 
