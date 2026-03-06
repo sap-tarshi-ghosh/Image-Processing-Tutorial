@@ -22,7 +22,7 @@ Date: 29.01.2026
 The following topics have been assigned by sir for the next stage of learning and implementation. (Manual implementation)
 
 ---
-## 1. Point (Pixel-wise) Intensity Transformations
+## 1. Point (Pixel wise) Intensity Transformations
 
 1. Image Negative  
 2. Contrast Stretching  
