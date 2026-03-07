@@ -1,4 +1,4 @@
-k# Image Processing Tutorial
+# Image Processing Tutorial
 This repository documents my day-by-day implementation of core image
 processing algorithms without using any built in image processing functions -
 ---
